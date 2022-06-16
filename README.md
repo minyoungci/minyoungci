@@ -1,6 +1,12 @@
 # Minyoungci
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
+## G'Day , I'm Min ! 
+Brings ideas to life with code.
+Im developer & traveler 
+
+
+
 
 ### Being Scientist & Programmer 
 

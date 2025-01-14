@@ -1,8 +1,12 @@
 name: GitHub-Profile-3D-Contrib
 
+# 권한 설정 추가
+permissions:
+  contents: write
+
 on:
   schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+    - cron: "0 18 * * *"  # cron 표현식도 수정했습니다 (* **)는 잘못된 형식입니다
   workflow_dispatch:
 
 jobs:
